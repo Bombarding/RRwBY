@@ -15,7 +15,7 @@ Gem::Specification.new do |ak47|
   ak47.email = 'dishonored@live.com'
   ak47.extra_rdoc_files = ['LICENSE.txt', 'README.md']
   ak47.homepage = 'http://github.com/bombarding/RRwBY.git'
-  ak47.licenses = ['MIT']
+  ak47.licenses = ['GNU']
   ak47.summary = 'RRwBY Gem Init'
 
   ak47.add_runtime_dependency('rainbow', '>= 1.99.1', '< 3.0')
