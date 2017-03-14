@@ -12,7 +12,7 @@ Gem::Specification.new do |ak47|
   ak47.authors = ['Alexander Steel']
   ak47.description = 'Welcome To My Ruby Git. It has been Reformatted'
 
-  ak47.email = 'dishonored@live.com'
+  ak47.email = 'skruffy@aim.com'
   ak47.extra_rdoc_files = ['LICENSE.txt', 'README.md']
   ak47.homepage = 'http://github.com/bombarding/RRwBY.git'
   ak47.licenses = ['GNU']
